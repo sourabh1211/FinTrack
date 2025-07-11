@@ -1,6 +1,6 @@
 <h1 align="center">FinTrack</h1>
 <p align="center">
-  <img src="Mainimage.png" alt="FinTrack Logo" width="400"/>
+  <img src="dashboard.png" alt="FinTrack Logo" width="400"/>
 </p>
 
 ---
