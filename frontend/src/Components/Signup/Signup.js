@@ -13,7 +13,7 @@ function Signup() {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        let res = await fetch("http://localhost:5000/api/v1/signup", {
+        let res = await fetch("https://fintrack-22qv.onrender.com/api/v1/signup", {
             method: "POST",
             mode: "cors",
             headers: {
