@@ -44,10 +44,10 @@
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="ss1.png" alt="Screenshot 1" width="150"/>
-  <img src="ss2.png" alt="Screenshot 2" width="150"/>
-  <img src="ss3.png" alt="Screenshot 3" width="150"/>
-  <img src="ss4.png" alt="Screenshot 4" width="150"/>
-  <img src="ss5.png" alt="Screenshot 5" width="150"/>
-  <img src="ss6.png" alt="Screenshot 6" width="150"/>
+  <img src="login.png" alt="Screenshot 1" width="150"/>
+  <img src="signup.png" alt="Screenshot 2" width="150"/>
+  <img src="dashboard.png" alt="Screenshot 3" width="150"/>
+  <img src="transaction.png" alt="Screenshot 4" width="150"/>
+  <img src="income.png" alt="Screenshot 5" width="150"/>
+  <img src="expense.png" alt="Screenshot 6" width="150"/>
 </div>
