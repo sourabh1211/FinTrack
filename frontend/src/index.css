@@ -1,0 +1,7 @@
+body {
+  cursor: url('https://cdn-icons-png.flaticon.com/512/1828/1828640.png'), auto;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
