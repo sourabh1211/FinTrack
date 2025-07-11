@@ -10,7 +10,7 @@ function Login({ onLogin }) {
     const handleLogin = async (e) => {
         e.preventDefault();
         try {
-            const res = await fetch('http://localhost:5000/api/v1/login', {
+            const res = await fetch('https://fintrack-22qv.onrender.com/api/v1/login', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
